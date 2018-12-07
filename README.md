@@ -28,6 +28,9 @@ In order to answer our question, we collected tweets from Crystal City, Virginia
 ### **Collection Process on RapidMiner**
 <img src="Data Collection Process.PNG" width="900">
 
+### **Collection Output**
+<img src="Data Collection Bar Graph.PNG" width="900">
+
 ## *Classification Models*
 
 ### Naive Baye's Model
