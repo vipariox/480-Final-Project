@@ -62,9 +62,17 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
   <img src="VA Naive Bayes Prediction output Bar Graph.PNG" width="400" />
 </p>
 
-
-
 ### K Means Clustering Model 
+
+#### K Means Rapid Miner Process
+<img src="K means process.PNG" width="900">
+
+#### K Means Output - Virginia
+
+##### Supportive
+<img src="VA K Means Clustered Tweets - Supportive.xlsx" width="900">
+#####Unsupportive
+<img src="VA K Means Clustered Tweets - Unsupportive.xlsx" width="900">
 
 ## Justification of Selected Models
 
