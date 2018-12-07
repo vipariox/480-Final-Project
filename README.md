@@ -6,7 +6,7 @@
 
 Our research question is ____.
 
-The background to this question>
+The background to this question
 
 Problems that need to be addressed/that arose.
 
