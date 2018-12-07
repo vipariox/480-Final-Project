@@ -12,7 +12,7 @@ Problems that need to be addressed/that arose.
 
 ## *Data Collection and Preperation*
 
-In order to answer our question, we collected tweets from Crystal City, Virginia and Long Island City, NY that were discussing Amazon Headquarters. 
+In order to answer our question, we collected tweets from Crystal City, Virginia and Long Island City, NY that were discussing Amazon Headquarters. We used the following parameters to collect tweets from both locations:
 
 ### **Collection Parameters**
 #### *Crystal City, Virginia*
