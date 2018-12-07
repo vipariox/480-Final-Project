@@ -71,6 +71,7 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 
 ##### Supportive
 <img src="VA K Means Clustered Tweets - Supportive.xlsx" width="800">
+
 ##### Unsupportive
 <img src="VA K Means Clustered Tweets - Unsupportive.xlsx" width="800">
 
