@@ -56,7 +56,7 @@ Using the parameters listed above, we collected 1217 tweets from Crystal City, V
 </p>
 
 <img src="NY Naive Bayes Prediction output Bar Graph.PNG" width="400">
-<img src="VA Naive Bayes bar graph.PNG" width="400">
+<img src="VA Naive Bayes bar graph.PNG" width="900">
 
 
 ### K Means Clustering Model 
