@@ -79,9 +79,11 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 ## Justification of Selected Models and Data Parameters
 
 ### Naive Bayes
-We decided to use the Naive Bayes model in Rapidminer as the primary model to solve our problem due to its ability to classify text well, resulting in better sentiment analysis. The bulk of our data dealt with the classification of tweets as supportive or unsupportive, with a neutral category used to help furher sort unrelated tweets. With enough tweets, Naive Bayes can semi-accurately classify tweets based on a relatively small set of training data by utilizing the frequency of certain words in tweets, mkaing it an ideal model for the type of sentiment analysis our project focused on. 
+We decided to use the Naive Bayes model in Rapidminer as the primary model to solve our problem due to its ability to classify text well, resulting in better sentiment analysis. The bulk of our data dealt with the classification of tweets as supportive or unsupportive, with a neutral category used to help furher sort unrelated tweets. With enough tweets, Naive Bayes can semi-accurately classify tweets based on a relatively small set of training data by utilizing the frequency of certain words in tweets, making it an ideal model for the type of sentiment analysis our project focused on. 
 
 ### K-Means Clustering
-sdfsd
+We used K-Means clustering in Rapidminer as a means of secondary analysis after utilizing Naive Bayes. Once Naive Bayes sorted the predicted tweets as supportive or unsupportive, K-Means clustering best allowed us to further sort the words within all the tweets in each classification based on groups of similar words. Based on the tweets collected and the nature of the sentiment analysis conducted, this model best helps us gain insight into the reasons people tweeting may have been supportive or unsupportive. 
+
+### Data Parameters
 
 ## Conclusions, Limitations, and Suggestions
