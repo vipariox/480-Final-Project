@@ -23,6 +23,10 @@ In order to answer our question, we collected tweets from
 
 ### Naive Baye's Model
 
+#### Preparing the Data
+
+<img src="Clean tweets process.PNG" width="900">
+
 ### K Means Clustering Model 
 
 ## Justification of Selected Models
