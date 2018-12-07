@@ -6,7 +6,7 @@
 
 ## *Data Collection and Preperation*
 
-* <img src="Data_Collection_Process.PNG" width="500">
+* <img src="Data Collection Process.PNG" width="500">
 
 ## *Classification Models*
 
