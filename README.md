@@ -39,7 +39,7 @@ Using the parameters listed above, we collected 1217 tweets from Crystal City, V
 ### Naive Baye's Model
 
 #### Preparing the Data
-To prepare our data fro Naive Bayes we labeled the tweets in the [Virginia Training Data]() and the [New York Training Data]() as supportive, unsupportive, or neutral in regard to their feelings towards the arrival of Amazon. Then the trianing data and test data is appended together, cleaned, and stored as a database in RapidMiner that can be retrieved for the Naive Bayes Model application.
+To prepare our data fro Naive Bayes we labeled the tweets in the [Virginia Training Data](https://github.com/vipariox/480-Final-Project/blob/master/VA%20Training%20Data.xlsx) and the [New York Training Data](https://github.com/vipariox/480-Final-Project/blob/master/NY%20Training%20Data.xlsx) as supportive, unsupportive, or neutral in regard to their feelings towards the arrival of Amazon. Then the trianing data and test data is appended together, cleaned, and stored as a database in RapidMiner that can be retrieved for the Naive Bayes Model application.
 <img src="Clean tweets process.PNG" width="900">
 
 #### Naive Bayes RapidMiner Process
