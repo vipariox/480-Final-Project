@@ -6,6 +6,8 @@
 
 ## *Data Collection and Preperation*
 
+(Data Collection Process.PNG)
+
 ## *Classification Models*
 
 ### Naive Baye's Model
