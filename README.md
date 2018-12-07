@@ -2,4 +2,12 @@
 
 # Clustering Tweets
 
-## Research QUestion, Background, and Problems
+## Research Question, Background, and Problems
+
+## Data Collection and Preperation 
+
+# Classification Models
+
+## Naive Baye's Model
+
+## K Means CLustering Model 
