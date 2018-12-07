@@ -89,3 +89,11 @@ We used K-Means clustering in Rapidminer as a means of secondary analysis after 
 the default max runs ended up working for our project, as any changes did not yield any discernable results. We used 4 as our k value, giving us enough variety to identify several different clusters of possible tweet topics. Any more than 4 and the clusters became a random grouping of words with no discernable theme.
 
 ## Conclusions, Limitations, and Suggestions
+
+### Conclusions
+The results for this project indicate that the sentiment towards Amazon's placement of the 2 new headquarters is mostly negative or neutral in both locations. NY had less people tweeting about the new headquarters and a much larger percentage of tweets that were neutral or irrelevent, which is interesting due to the larger population density of NY compared to VA. VA was overwhelmingly unsopprtive of the new headquarters, with several references to the NY headquarters, indicating that VA is more vocal about the topic and the placement of the headquarters in VA may have more consequences than in NY. The overall conclusion is that while policticians and some business leaders may have been fighting for Amazon to come to their city, the everyday twitter user was not in favor of such actions. 
+
+### Limitations
+The biggest limitation was the nature of social media. While twitter can give us a snapshot, it does not speak for the entire population: not everyone who has an opinion is going to tweet about it. Additionally, it may be the case that only people who are upset at Amazon are going to tweet about it to vent their frustration, giving our data a negative bias that does not reflect the actual sentiment in that location. The models are also not perfect: many irrelevant words and tweets could not be filtered out and may have skewed the models' predictions and clusters. 
+
+### Suggestions
