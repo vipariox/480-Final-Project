@@ -75,6 +75,14 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 ##### Unsupportive
 <img src="VA K Means unsupportive word clouds.png" width="800">
 
+#### K Means Output - New York
+
+##### Supportive
+<img src="NY K Means Supportive Word Clouds.png" width="800">
+
+##### Unsupportive
+<img src="NY K Means Unsupportive Word Clouds.png" width="800">
+
 ## Justification of Selected Models
 
 ## Conclusions, Limitations, and Suggestions
