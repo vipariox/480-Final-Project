@@ -15,12 +15,12 @@ Problems that need to be addressed/that arose.
 In order to answer our question, we collected tweets from Crystal City, Virginia and Long Island City, NY that were discussing Amazon Headquarters. 
 
 ### **Collection Parameters**
-#### Crystal City, Virginia
+#### *Crystal City, Virginia*
 - Coordinates = (38.8554° N, 77.0521° W) 
 - Search Radius = 50 miles
 - Keywords = Amazon HQ, Amazon headquarters, HQ2
 
-#### Long Island City, New York
+#### *Long Island City, New York*
 - Coordinates = (40.7447° N, 73.9485° W) 
 - Search Radius = 50 miles
 - Keywords = Amazon HQ, Amazon headquarters, HQ2
