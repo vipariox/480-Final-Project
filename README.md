@@ -16,14 +16,14 @@ In order to answer our question, we collected tweets from Crystal City, Virginia
 
 ### **Collection Parameters**
 #### Crystal City, Virginia
--Coordinates = (38.8554° N, 77.0521° W) 
--Search Radius = 50 miles
--Keywords = Amazon HQ, Amazon headquarters, HQ2
+- Coordinates = (38.8554° N, 77.0521° W) 
+- Search Radius = 50 miles
+- Keywords = Amazon HQ, Amazon headquarters, HQ2
 
 #### Long Island City, New York
--Coordinates = (40.7447° N, 73.9485° W) 
--Search Radius = 50 miles
--Keywords = Amazon HQ, Amazon headquarters, HQ2
+- Coordinates = (40.7447° N, 73.9485° W) 
+- Search Radius = 50 miles
+- Keywords = Amazon HQ, Amazon headquarters, HQ2
 
 ### **Collection Process on RapidMiner**
 <img src="Data Collection Process.PNG" width="900">
