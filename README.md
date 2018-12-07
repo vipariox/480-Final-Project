@@ -45,9 +45,8 @@ Using the parameters listed above, we collected 1217 tweets from Crystal City, V
 <img src="Naive bayes process.PNG" width="900">
 
 #### Naive Bayes Output - Virginia
-The excel output for the Virginia Naive Bayes model can be found [here](https://github.com/vipariox/480-Final-Project/blob/master/VA%20Naive%20Bayes%20Output.xlsx).
+The excel output for the Virginia Naive Bayes model can be found [here](https://github.com/vipariox/480-Final-Project/blob/master/VA%20Naive%20Bayes%20Output.xlsx). Below is a screenshot of the output of prediction classification of Virginia tweets. 
 <img src="VA Naive Bayes prediction output.PNG" width="900">
-[Output of Prediction Classification for Virginia Tweets]
 
 
 
