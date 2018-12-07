@@ -76,9 +76,12 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 <img src="NY K Means Supportive Word Clouds.png" width="800">
 <img src="NY K Means Unsupportive Word Clouds.png" width="800">
 
-## Justification of Selected Models
+## Justification of Selected Models and Data Parameters
 
-### Niave Bayes
-#### oihgbsdjfngpjsdf
+### Naive Bayes
+#### We decided to use the Naive Bayes model in Rapidminer as the primary model to solve our problem due to its ability to classify text well, resulting in better sentiment analysis. The bulk of our data dealt with the classification of tweets as supportive or unsupportive, with a neutral category used to help furher sort unrelated tweets. With enough tweets, Naive Bayes can semi-accurately classify tweets based on a relatively small set of training data by utilizing the frequency of certain words in tweets, mkaing it an ideal model for the type of sentiment analysis our project focused on. 
+
+### K-Means Clustering
+####sdfsd
 
 ## Conclusions, Limitations, and Suggestions
