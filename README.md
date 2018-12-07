@@ -50,6 +50,8 @@ Using the parameters listed above, we collected 1217 tweets from Crystal City, V
 #### Naive Bayes Output - New York
 
 #### Naive Bayes Output - Virginia versus New York
+![alt-text-1](NY Naive Bayes Prediction output Bar Graph.PNG.png "title-1") ![alt-text-2](VA Naive Bayes bar graph.png "title-2")
+
 <img src="NY Naive Bayes Prediction output Bar Graph.PNG" width="400">
 <img src="VA Naive Bayes bar graph.PNG" width="400">
 
