@@ -81,9 +81,11 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 ### Naive Bayes
 We decided to use the Naive Bayes model in Rapidminer as the primary model to solve our problem due to its ability to classify text well, resulting in better sentiment analysis. The bulk of our data dealt with the classification of tweets as supportive or unsupportive, with a neutral category used to help furher sort unrelated tweets. With enough tweets, Naive Bayes can semi-accurately classify tweets based on a relatively small set of training data by utilizing the frequency of certain words in tweets, making it an ideal model for the type of sentiment analysis our project focused on. 
 
+The main parameters that were set was the ratio of training tweets to test tweets. We initially used a ration of 9 test tweets to 1 training tweet, but later realized that was not enough training tweets for the test data to be accurate. We then changed the ratio to a 7 to 3 ratio, which allowed for more accurate prediction without requiring too much manual data entry, given the short time frame we have.
+
 ### K-Means Clustering
 We used K-Means clustering in Rapidminer as a means of secondary analysis after utilizing Naive Bayes. Once Naive Bayes sorted the predicted tweets as supportive or unsupportive, K-Means clustering best allowed us to further sort the words within all the tweets in each classification based on groups of similar words. Based on the tweets collected and the nature of the sentiment analysis conducted, this model best helps us gain insight into the reasons people tweeting may have been supportive or unsupportive. 
 
-### Data Parameters
+the default max runs ended up working for our project, as any changes did not yield any discernable results. We used 4 as our k value, giving us enough variety to identify several different clusters of possible tweet topics. Any more than 4 and the clusters became a random grouping of words with no discernable theme.
 
 ## Conclusions, Limitations, and Suggestions
