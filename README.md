@@ -34,8 +34,6 @@ In order to answer our question, we collected tweets from Crystal City, Virginia
 Using the parameters listed above, we collected 1217 tweets from Crystal City, Virginia and 699 tweets from Long Island City, New York. The data collected from Virginia was split into [test](https://github.com/vipariox/480-Final-Project/blob/master/VA%20Test%20data.xlsx) and [training](https://github.com/vipariox/480-Final-Project/blob/master/VA%20Training%20Data.xlsx) data and the data collected from New York was split into [test](https://github.com/vipariox/480-Final-Project/blob/master/NY%20Test%20Data.xlsx) and [training](https://github.com/vipariox/480-Final-Project/blob/master/NY%20Training%20Data.xlsx) data using a 7:3 test to training ratio. 
 <img src="Data Collection Bar Graph.PNG" width="900">
 
-
-
 ## *Classification Models*
 
 ### Naive Baye's Model
@@ -45,6 +43,16 @@ Using the parameters listed above, we collected 1217 tweets from Crystal City, V
 
 #### Naive Bayes RapidMiner Process
 <img src="Naive bayes process.PNG" width="900">
+
+#### Naive Bayes Output - Virginia
+<img src="Naive bayes process.PNG" width="900">
+
+#### Naive Bayes Output - New York
+
+#### Naive Bayes Output - Virginia versus New York
+<img src="NY Naive Bayes Prediction output Bar Graph.PNG" width="400">
+<img src="VA Naive Bayes Prediction output Bar Graph.PNG" width="400">
+
 
 ### K Means Clustering Model 
 
