@@ -41,8 +41,10 @@ Using the parameters listed above, we collected 1217 tweets from Crystal City, V
 ### Naive Baye's Model
 
 #### Preparing the Data
-
 <img src="Clean tweets process.PNG" width="900">
+
+#### Naive Bayes RapidMiner Process
+<img src="Naive bayes process.PNG" width="900">
 
 ### K Means Clustering Model 
 
