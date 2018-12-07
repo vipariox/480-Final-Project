@@ -70,9 +70,9 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 #### K Means Output - Virginia
 
 ##### Supportive
-<img src="VA K Means Clustered Tweets - Supportive.xlsx" width="900">
-#####Unsupportive
-<img src="VA K Means Clustered Tweets - Unsupportive.xlsx" width="900">
+<img src="VA K Means Clustered Tweets - Supportive.xlsx" width="800">
+##### Unsupportive
+<img src="VA K Means Clustered Tweets - Unsupportive.xlsx" width="800">
 
 ## Justification of Selected Models
 
