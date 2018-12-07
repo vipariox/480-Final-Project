@@ -1,12 +1,12 @@
 # 480-Final-Project
 
-# Clustering Tweets
+# Our Topic Title 
 
 ## *Research Question, Background, and Problems*
 
 ## *Data Collection and Preperation*
 
-# **Classification Models**
+# *Classification Models*
 
 ## Naive Baye's Model
 
