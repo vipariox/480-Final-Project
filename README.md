@@ -4,6 +4,12 @@
 
 ## *Research Question, Background, and Problems*
 
+Our research question is ____.
+
+The background to this question>
+
+Problems that need to be addressed/that arose.
+
 ## *Data Collection and Preperation*
 
 In order to answer our question, we collected tweets from
