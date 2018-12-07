@@ -8,6 +8,6 @@
 
 ## *Classification Models*
 
-## Naive Baye's Model
+### Naive Baye's Model
 
-## K Means CLustering Model 
+### K Means Clustering Model 
