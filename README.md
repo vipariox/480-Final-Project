@@ -1,6 +1,6 @@
 # 480-Final-Project
 
-# Our Topic Title 
+# Amazon Bid Cities Analysis
 
 ## *Research Question, Background, and Problems*
 
