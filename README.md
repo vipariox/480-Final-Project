@@ -6,7 +6,7 @@
 
 ## *Data Collection and Preperation*
 
-# *Classification Models*
+## *Classification Models*
 
 ## Naive Baye's Model
 
