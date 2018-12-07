@@ -54,7 +54,7 @@ The excel output for the Virginia Naive Bayes model can be found [here](https://
 #### Naive Bayes Output - New York
 The excel output for the New York Naive Bayes model can be found [here](https://github.com/vipariox/480-Final-Project/blob/master/NY%20Naive%20Bayes%20Output.xlsx).
 <img src="NY Naive Bayes Prediction output.PNG" width="900">
-.center[Output of Prediction Classification for New York Tweets]
+.caption[Output of Prediction Classification for New York Tweets]
 
 #### Naive Bayes Output - Virginia versus New York
 When comparing the prediciton outsomes of both locations, it can be seen that there were more neutral predicted tweets in New York and more unsupportive predicted tweets in Virginia.
