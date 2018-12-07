@@ -65,6 +65,7 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 ### K Means Clustering Model 
 
 #### K Means Rapid Miner Process
+
 <img src="K means process.PNG" width="900">
 
 #### K Means Output - Virginia
