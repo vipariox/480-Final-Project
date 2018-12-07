@@ -8,7 +8,7 @@ Our research problem is to determine how residents in Long Island City, NY and C
 
 Many cities advocated to win the bid for Amazon to build their facility in their city, citing economic advantages and increased employment opportunities. However, there has been some speculation about whether the residents of these areas are actually supportive of their local government’s decision to allow Amazon to build in their cities. We aim to determine the sentiment of the residents in these cities in regard to the arrival of Amazon.
 
-Problems that need to be addressed/that arose.
+The problem identified is that while winning Amazon headquarters was highly valued amongst cities across the United States, it is unclear as to whether or not the residents of Crystal City and Long Island City welcome Amazon coming to their city and why or why not. 
 
 ## *Data Collection and Preperation*
 
