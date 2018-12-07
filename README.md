@@ -6,6 +6,11 @@
 
 ## *Data Collection and Preperation*
 
+In order to answer our question, we collected tweets from
+
+### **Collection Parameters**
+
+### ** Collection Process on RapidMiner**
 <img src="Data Collection Process.PNG" width="900">
 
 ## *Classification Models*
