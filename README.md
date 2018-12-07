@@ -32,7 +32,7 @@ In order to answer our question, we collected tweets from Crystal City, Virginia
 
 ### **Collection Output**
 Using the parameters listed above, we collected 1217 tweets from Crystal City, Virginia and 699 tweets from Long Island City, New York. The data collected from Virginia was split into [test](https://github.com/vipariox/480-Final-Project/blob/master/VA%20Test%20data.xlsx) and [training](https://github.com/vipariox/480-Final-Project/blob/master/VA%20Training%20Data.xlsx) data and the data collected from New York was split into [test](https://github.com/vipariox/480-Final-Project/blob/master/NY%20Test%20Data.xlsx) and [training](https://github.com/vipariox/480-Final-Project/blob/master/NY%20Training%20Data.xlsx) data using a 7:3 test to training ratio. 
-<img src="Data Collection Bar Graph.PNG" width="900">
+<img src="Data Collection Bar Graph.PNG" width="700">
 
 ## *Classification Models*
 
