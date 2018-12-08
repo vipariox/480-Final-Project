@@ -1,5 +1,3 @@
-# 480-Final-Project
-
 # Resident Analysis of Amazon HQ2 Cities
 
 ## *Research Question, Background, and Problems*
