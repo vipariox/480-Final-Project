@@ -64,6 +64,9 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 
 ### K Means Clustering Model 
 
+#### Preparing the Data
+In order to prepare the data for the K Means cluserting, we seperated the excel output from the Naive Bayes model into [Virginia supportive data](), [Virginia unsupportive data](), [New York supportive data](), and [New York unsupportive data](). By seperating the predicted classification of tweets into seperate excel files based on location and sentiment, we can use the K Means model to cluster tweets within these categories to get better insight as to different reasons *why* people are supportive or unsupportive of Amazons new locations. 
+
 #### K Means Rapid Miner Process
 
 <img src="K means process.PNG" width="900">
