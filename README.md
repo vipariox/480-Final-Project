@@ -1,6 +1,6 @@
 # 480-Final-Project
 
-# Amazon Bid Cities Analysis
+# Resident Analysis of Amazon HQ2 Cities
 
 ## *Research Question, Background, and Problems*
 
