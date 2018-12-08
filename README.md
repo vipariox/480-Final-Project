@@ -110,7 +110,7 @@ The main parameters that were set was the ratio of training tweets to test tweet
 ### K-Means Clustering
 We used K-Means clustering in Rapidminer as a means of secondary analysis after utilizing Naive Bayes. Once Naive Bayes sorted the predicted tweets as supportive or unsupportive, K-Means clustering best allowed us to further sort the words within all the tweets in each classification based on groups of similar words. Based on the tweets collected and the nature of the sentiment analysis conducted, this model best helps us gain insight into the reasons people tweeting may have been supportive or unsupportive. 
 
-the default max runs ended up working for our project, as any changes did not yield any discernable results. We used 4 as our k value, giving us enough variety to identify several different clusters of possible tweet topics. Any more than 4 and the clusters became a random grouping of words with no discernable theme.
+the default max runs ended up working for our project, as any changes did not yield any discernable results. We used 4 as our k value, giving us enough variety to identify a few different clusters of possible tweet topics. Any more than 4 and all the clusters became a random grouping of words with no discernable theme.
 
 ## Conclusions, Limitations, and Suggestions
 
