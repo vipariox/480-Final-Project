@@ -70,7 +70,18 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 
 #### K Means Output - Virginia
 <img src="VA K Means supportive word clouds.png" width="800">
+Cluster Themes
+Cluster 1: local citizens and the effect on housing
+Cluster 2: News media showcasing the development of the headquarters
+Cluster 3: Specific well known people that may be supportive
+Cluster 4: local schools and education
+
 <img src="VA K Means unsupportive word clouds.png" width="800">
+Cluster Themes
+Cluster 1: political deals/corruption 
+Cluster 2: effects on specific areas of VA and their residents
+Cluster 3: effect on local infrastructure and housing
+Cluster 4: references to NY
 
 #### K Means Output - New York
 <img src="NY K Means Supportive Word Clouds.png" width="800">
@@ -94,7 +105,7 @@ the default max runs ended up working for our project, as any changes did not yi
 The results for this project indicate that the sentiment towards Amazon's placement of the 2 new headquarters is mostly negative or neutral in both locations. NY had less people tweeting about the new headquarters and a much larger percentage of tweets that were neutral or irrelevent, which is interesting due to the larger population density of NY compared to VA. VA was overwhelmingly unsopprtive of the new headquarters, with several references to the NY headquarters, indicating that VA is more vocal about the topic and the placement of the headquarters in VA may have more consequences than in NY. The overall conclusion is that while policticians and some business leaders may have been fighting for Amazon to come to their city, the everyday twitter user was not in favor of such actions. 
 
 ### Limitations
-The biggest limitation was the nature of social media. While twitter can give us a snapshot, it does not speak for the entire population: not everyone who has an opinion is going to tweet about it. Additionally, it may be the case that only people who are upset at Amazon are going to tweet about it to vent their frustration, giving our data a negative bias that does not reflect the actual sentiment in that location. The models are also not perfect: many irrelevant words and tweets could not be filtered out and may have skewed the models' predictions and clusters. 
+The biggest limitation was the nature of social media. While twitter can give us a snapshot, it does not speak for the entire population: not everyone who has an opinion is going to tweet about it. Additionally, it may be the case that only people who are upset at Amazon are going to tweet about it to vent their frustration, giving our data a negative bias that does not reflect the actual sentiment in that location. The models are also not perfect: many irrelevant words and tweets could not be filtered out and may have skewed the models' predictions and clusters. Lastly, while some tweets were clear in the support or lack thereof, some tweets were more ambiguous, requiring a judgement that could have some amount of inherent bias or subjective reasoning. 
 
 ### Suggestions
 Some possible ways to improve this analysis would be to take more time collecting a larger number of tweets and using a larger training set while carefully labeling the training data. While this may be more labor intensive, it could yield much more accurate predictions and could be managed by a slightly larger team. Also incorporating more methods to process the data would result in more useful words and tweets, sorting out many of the irrelevant and nonsensical words that plagued our data. 
