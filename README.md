@@ -101,7 +101,7 @@ Output Data
  - Cluster 1: no pattern
  - Cluster 2: effects on business
  - Cluster 3: local economy
- - Cluster 4: no patter
+ - Cluster 4: Comparing NY to Silicon Valley
  
  Output Data
 - [Supportive Clusters](https://github.com/vipariox/480-Final-Project/blob/master/NY%20K%20Means%20Clustered%20Tweets%20-%20Supportive.xlsx)
