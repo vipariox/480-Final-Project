@@ -77,7 +77,7 @@ Cluster 3: Specific well known people that may be supportive
 Cluster 4: local schools and education
 
 <img src="VA K Means unsupportive word clouds.png" width="800">
-##### Cluster Themes
+#### Cluster Themes
 - Cluster 1: political deals/corruption 
 - Cluster 2: effects on specific areas of VA and their residents
 - Cluster 3: effect on local infrastructure and housing
