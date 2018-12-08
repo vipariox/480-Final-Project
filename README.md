@@ -115,7 +115,7 @@ Output Data
  Output Data
 - [New York Unsupportive Clusters](https://github.com/vipariox/480-Final-Project/blob/master/NY%20K%20Means%20Clustered%20Tweets%20-%20Unsupportive.xlsx)
 
-## Justification of Selected Models and Data Parameters
+## *Justification of Selected Models and Data Parameters*
 
 ### Naive Bayes
 We decided to use the Naive Bayes model in Rapidminer as the primary model to solve our problem due to its ability to classify text well, resulting in better sentiment analysis. The bulk of our data dealt with the classification of tweets as supportive or unsupportive, with a neutral category used to help furher sort unrelated tweets. With enough tweets, a Naive Bayes model can be trained to classify tweets based on a relatively small set of training data by utilizing the frequency of certain words in tweets, making it an ideal model for the type of text analysis our project focused on. 
@@ -127,7 +127,7 @@ We used K-Means clustering in Rapidminer as a means of secondary analysis after 
 
 The default max runs ended up working for our project, as any changes did not yield any discernable results. We used 4 as our k value, giving us enough variety to identify a few different clusters of possible tweet topics. Generating more than 4 clusters resulted in clusters with too few words to discern a general theme.
 
-## Conclusions, Limitations, and Suggestions
+## *Conclusions, Limitations, and Suggestions*
 
 ### Conclusions
 The results for this project indicate that the sentiment towards Amazon's placement of the 2 new headquarters is mostly negative or neutral in both locations. NY had less people tweeting about the new headquarters and a much larger percentage of tweets that were neutral or irrelevent, which is interesting due to the larger population density of NY compared to VA. VA was overwhelmingly unsopprtive of the new headquarters, with several references to the NY headquarters, indicating that VA is more vocal about the topic and the placement of the headquarters in VA may have more consequences than in NY. The overall conclusion is that while policticians and some business leaders may have been fighting for Amazon to come to their city, the everyday twitter user was not in favor of such actions. 
