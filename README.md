@@ -65,7 +65,7 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 ### K Means Clustering Model 
 
 #### Preparing the Data
-In order to prepare the data for the K Means cluserting, we seperated the excel output from the Naive Bayes model into [Virginia supportive data](https://github.com/vipariox/480-Final-Project/blob/master/VA%20K%20Means%20Clustered%20Tweets%20-%20Supportive.xlsx), [Virginia unsupportive data](https://github.com/vipariox/480-Final-Project/blob/master/VA%20K%20Means%20Clustered%20Tweets%20-%20Unsupportive.xlsx), [New York supportive data](https://github.com/vipariox/480-Final-Project/blob/master/NY%20K%20Means%20Clustered%20Tweets%20-%20Supportive.xlsx), and [New York unsupportive data](https://github.com/vipariox/480-Final-Project/blob/master/NY%20K%20Means%20Clustered%20Tweets%20-%20Unsupportive.xlsx). By seperating the predicted classification of tweets into seperate excel files based on location and predicted sentiment, we can use the K Means model to cluster tweets within these categories to get better insight as to different reasons *why* people are supportive or unsupportive of Amazons new locations. 
+In order to prepare the data for the K Means cluserting, we seperated the excel output from the Naive Bayes model into [Virginia supportive data](https://github.com/vipariox/480-Final-Project/blob/master/VA%20Naive%20Bayes%20output%20supportive.xlsx), [Virginia unsupportive data](https://github.com/vipariox/480-Final-Project/blob/master/VA%20Naive%20Bayes%20output%20unsupportive.xlsx), [New York supportive data](https://github.com/vipariox/480-Final-Project/blob/master/NY%20Naive%20Bayes%20Output%20Supportive.xlsx), and [New York unsupportive data](https://github.com/vipariox/480-Final-Project/blob/master/NY%20Naive%20Bayes%20Output%20Unsupportive.xlsx). By seperating the predicted classification of tweets into seperate excel files based on location and predicted sentiment, we can use the K Means model to cluster tweets within these categories to get better insight as to different reasons *why* people are supportive or unsupportive of Amazons new locations. 
 
 #### K Means Rapid Miner Process
 
@@ -80,6 +80,9 @@ In order to prepare the data for the K Means cluserting, we seperated the excel 
 - Cluster 3: Specific well known people that may be supportive
 - Cluster 4: local schools and education
 
+Output Data
+- [Supportive Clusters](https://github.com/vipariox/480-Final-Project/blob/master/VA%20K%20Means%20Clustered%20Tweets%20-%20Supportive.xlsx)
+
 <img src="VA K Means unsupportive word clouds.png" width="800">
  Cluster Themes
 
@@ -87,6 +90,9 @@ In order to prepare the data for the K Means cluserting, we seperated the excel 
 - Cluster 2: effects on specific areas of VA and their residents
 - Cluster 3: effect on local infrastructure and housing
 - Cluster 4: references to NY
+
+Output Data
+- [Unsupportive Clusters](https://github.com/vipariox/480-Final-Project/blob/master/VA%20K%20Means%20Clustered%20Tweets%20-%20Unsupportive.xlsx)
 
 #### K Means Output - New York
 <img src="NY K Means Supportive Word Clouds.png" width="800">
@@ -96,6 +102,10 @@ In order to prepare the data for the K Means cluserting, we seperated the excel 
  - Cluster 2: effects on business
  - Cluster 3: local economy
  - Cluster 4: no patter
+ 
+ Output Data
+- [Supportive Clusters](https://github.com/vipariox/480-Final-Project/blob/master/NY%20K%20Means%20Clustered%20Tweets%20-%20Supportive.xlsx)
+
 <img src="NY K Means Unsupportive Word Clouds.png" width="800">
  Cluster Themes
  
@@ -103,6 +113,10 @@ In order to prepare the data for the K Means cluserting, we seperated the excel 
  - Cluster 2: local schools/politics
  - Cluster 3: local economy
  - Cluster 4: NY politicians/politics
+ 
+ Output Data
+- [Unsupportive Clusters](https://github.com/vipariox/480-Final-Project/blob/master/NY%20K%20Means%20Clustered%20Tweets%20-%20Unsupportive.xlsx)
+
 ## Justification of Selected Models and Data Parameters
 
 ### Naive Bayes
