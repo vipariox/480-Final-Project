@@ -70,11 +70,12 @@ When comparing the prediciton outsomes of both locations, it can be seen that mo
 
 #### K Means Output - Virginia
 <img src="VA K Means supportive word clouds.png" width="800">
-Cluster Themes
-Cluster 1: local citizens and the effect on housing
-Cluster 2: News media showcasing the development of the headquarters
-Cluster 3: Specific well known people that may be supportive
-Cluster 4: local schools and education
+ Cluster Themes
+
+- Cluster 1: local citizens and the effect on housing
+- Cluster 2: News media showcasing the development of the headquarters
+- Cluster 3: Specific well known people that may be supportive
+- Cluster 4: local schools and education
 
 <img src="VA K Means unsupportive word clouds.png" width="800">
  Cluster Themes
@@ -86,8 +87,19 @@ Cluster 4: local schools and education
 
 #### K Means Output - New York
 <img src="NY K Means Supportive Word Clouds.png" width="800">
+ Cluster Themes
+ 
+ - Cluster 1: no pattern
+ - Cluster 2: effects on business
+ - Cluster 3: local economy
+ - Cluster 4: no patter
 <img src="NY K Means Unsupportive Word Clouds.png" width="800">
-
+ Cluster Themes
+ 
+ - Cluster 1: no pattern
+ - Cluster 2: local schools/politics
+ - Cluster 3: local economy
+ - Cluster 4: NY politicians/politics
 ## Justification of Selected Models and Data Parameters
 
 ### Naive Bayes
